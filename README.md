@@ -10,3 +10,4 @@ My hobbies are dancing and exploring various softwares and technologies . Thus I
 
 My interest is in learning Web Dev and Machine Learning.
 
+I want to contribute to open source because it will help me interact with other developers and will help me learn new tools and skills.
